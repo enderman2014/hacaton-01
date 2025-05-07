@@ -18,6 +18,7 @@ body{
   animation: flicker 1.5s infinite alternate;
   color: white;
   text-shadow: 0 0 10px #ff0, 0 0 20px #ff0, 0 0 30px #f0f;
+  display: inline-block;
 }
 @keyframes flicker {
   0% { opacity: 1; }
