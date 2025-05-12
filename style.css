@@ -52,6 +52,7 @@ body{
 .all{
   display: flex;
 justify-content: center;
+width:1200px;
 }
 
 a{
